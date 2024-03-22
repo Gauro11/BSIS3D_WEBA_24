@@ -4,7 +4,6 @@ require 'functions.php';
 require 'App.php';
 require 'controller.php';
 require 'Model.php';
-require 'App.php';
 
 spl_autoload_register(function ($class_name){}
 
